@@ -1,0 +1,11 @@
+{
+  "name": "apolling",
+  "version": "1.0.1",
+  "description": "一个有效方便简单的借助rxjs实现的轮询状态机",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arron",
+  "license": "MIT"
+}
