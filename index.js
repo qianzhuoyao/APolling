@@ -150,7 +150,7 @@ export default class Polling {
                 return new Promise(() => {
                   this.over();
                   this.running(pollingRequest);
-                  new ACollector.reset();
+                  new ACollector().reset();
                 });
               });
               this.isFunc(this.effect) &&
